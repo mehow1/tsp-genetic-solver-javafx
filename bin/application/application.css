@@ -1,0 +1,21 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#fileAdressTextField{
+	-fx-pref-width: 400px;
+}
+
+#progressBar{
+	-fx-pref-width: 800px;
+}
+
+#fileBarPane{
+	-fx-padding: 5,0,-10,0;
+	-fx-pref-height: 70.0%;
+}
+
+#selectOptionsPane{
+	-fx-padding: 5,0,0,0;
+}
+
+#solutionButtonsPane{
+	-fx-padding: 5,0,40,0;
+}
